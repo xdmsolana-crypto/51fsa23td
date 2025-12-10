@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 
 # ======================= КОНСТАНТЫ И ID =======================
 # !!! ОБЯЗАТЕЛЬНО ЗАМЕНИТЕ ЭТОТ ТОКЕН НА СВОЙ !!!
-API_TOKEN = "8533718145:AAF9W90DC_6lH2sMuwQD2uzuvjcedg1lSMw" 
+API_TOKEN = "8406093250:AAEVg3uBA6YF89LkSt0Niv06HWXDLp2H_lE" 
 ADMIN_ID = 8393627070  # ID Администратора для получения уведомлений
 
 # ID ЧАТОВ ДЛЯ ЛОГОВ/МОДЕРАЦИИ (ДОЛЖНЫ БЫТЬ ВАШИ)
